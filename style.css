@@ -1,0 +1,166 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+img{
+    height: 84px;
+    width: 120px;
+}
+header{
+    z-index: 0;
+    background-color: black;
+}
+
+header, a {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+}
+
+.logo{
+    z-index: 1;
+    position: relative;
+}
+
+h3{
+    font-size: 15px;
+}
+h2:hover{
+    background-color: gray;
+    position: relative;
+}
+h4{
+    text-align: center;
+    font-size: 40px;
+}
+h5{
+    font-size: 20px;
+    text-align: right;
+}
+img{
+height: 84px;
+width: 120px;
+}
+ul{
+   text-align: left;
+float:right;
+}
+.golovna{
+    width: 400px;
+    height: 400px;
+}
+.kora{
+    width: 450px;
+    height: 350px;
+}
+.door{
+    width: 250px;
+    height: 200px;
+}
+.dep{
+    width: 250px;
+    height: 200px;
+}
+.hop{
+     width: 250px;
+    height: 200px;
+
+  
+}
+.hip{
+    margin-top: 100px;
+}
+.lolso{
+    color: white;
+    background-color: black;
+}
+a{
+    color: white;
+    
+   
+    
+}
+
+ul{
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
+
+.miog{
+    text-align: center;
+
+   
+    
+}
+.imgs{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.noup{
+   
+    height: 150px;
+    width: 250px;
+   
+}
+.noum{
+    height: 150px;
+    width: 250px;
+
+}
+.ankar{
+    font-size: 40px;
+    margin-top: 25px;
+    margin-right: 70px;
+}
+.sale{
+    display: block;
+    margin: 0;
+
+}
+.banka{
+    text-align: center;
+    font-size: 40px;
+   position: relative;
+   right: 200px;
+   bottom: 50px;
+}
+.gok{
+    font-size: 30px;
+    margin-bottom: 100px;
+}
+.gik{
+   font-size: 25px;
+   margin-left: -240px;
+   margin-bottom: 70px;
+}
+
+
+
+footer {
+    background: #111;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.footer-bottom {
+    margin-top: 20px;
+}
+
+caption, img{
+    border-radius: 10px;
+}
+h2{
+    color: red;
+
+}
